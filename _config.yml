@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "NYJ's blog"
 title_separator          : "-"
 name                     : "Young Jo, Na"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Na Young Jo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "고양이 집사.."
   location         : "Seoul, Korea"
@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:your.name@email.com
+      url: "youngjo@pick-kle.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
