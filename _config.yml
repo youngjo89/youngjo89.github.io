@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "고양이 집사.."
   location         : "Seoul, Korea"
-  email            : "youngjo@pick-kle.com"
+  email            : "youngjo89@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
